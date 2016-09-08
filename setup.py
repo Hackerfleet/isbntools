@@ -155,7 +155,7 @@ data_files = [(DATAPATH, [CONFRES])]
 
 setup(
     name='isbntools',
-    version='4.3.1-hf',
+    version='4.3.1.hf',
     author='xlcnd',
     author_email='xlcnd@outlook.com',
     url='https://github.com/xlcnd/isbntools',
